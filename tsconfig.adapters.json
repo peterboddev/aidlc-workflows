@@ -1,9 +1,0 @@
-{
-  "extends": "./tsconfig.json",
-  // Adapters import sibling tools that exist only in emitted harness trees.
-  // package.ts --check, run by `bun run check`, enforces source/dist parity.
-  "include": [
-    "dist/*/.*/hooks/*-adapter.ts"
-  ],
-  "exclude": []
-}

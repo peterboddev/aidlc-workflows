@@ -1,27 +1,27 @@
 # Summary
 
-> Replace with your summary.
+> replace with your summary...
 
 ## Changes
 
-> Replace with a description of the changes.
+> replace with a description of the changes
 
 ## User experience
 
-> Describe the user experience before and after this change.
+> Please share what the user experience looks like before and after this change
 
 ## Checklist
 
-If an item does not apply, leave it unchecked.
+If your change doesn't seem to apply, please leave them unchecked.
 
 * [ ] I have reviewed the [contributing guidelines](https://github.com/awslabs/aidlc-workflows/blob/main/CONTRIBUTING.md)
 * [ ] I have performed a self-review of this change
 * [ ] Changes have been tested
 * [ ] Changes are documented
 
-## Test plan
+## Test Plan
 
-> Replace with instructions or a checklist for reviewers to verify.
+> replace with instructions or a checklist for reviewers to verify
 
 ## Acknowledgment
 

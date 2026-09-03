@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this template to propose a significant change or new feature. RFCs gather feedback before implementation begins.
+        Use this template to propose a significant change or new feature. RFCs are meant to gather feedback before implementation begins.
 
   - type: textarea
     id: summary

@@ -14,8 +14,8 @@ body:
       label: Version
       description: Which version of AI-DLC does this relate to?
       options:
-        - v2 (current on main)
-        - v1 (maintenance)
+        - v1 (current)
+        - v2 (alpha)
     validations:
       required: true
 
@@ -38,7 +38,7 @@ body:
     attributes:
       label: Location
       description: Where is the problem? Provide a file path, URL, or section name.
-      placeholder: e.g., README.md, "Quick Start" section
+      placeholder: e.g., README.md, "Platform-Specific Setup" section
     validations:
       required: true
 
